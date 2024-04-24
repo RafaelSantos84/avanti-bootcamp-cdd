@@ -1,0 +1,6 @@
+variavel,descrição,tipo,subtipo
+subject,Identificação do sujeito participante do estudo,qualitativa,nominal
+timepoint,Ponto no tempo em que a observação foi feita,quantitativa,discreta
+event,Tipo de evento ou estímulo aplicado,qualitativa,nominal
+region,Região do cérebro observada,qualitativa,nominal
+signal,Valor do sinal observado,quantitativa,contínua
